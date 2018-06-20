@@ -1,0 +1,35 @@
+{
+  "name": "babel-plugin-react-rename-unsafe-lifecycle",
+  "version": "1.0.0",
+  "description": "Rename unsafe react lifecycle: componentWillMount by UNSAFE_componentWillMount, componentWillReceiveProps by UNSAFE_componentWillReceiveProps and componentWillUpdate by UNSAFE_componentWillUpdate",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GuillaumeSarfati/babel-plugin-react-rename-unsafe-lifecycle.git"
+  },
+  "keywords": [
+    "babel-plugin",
+    "babel",
+    "transform",
+    "react",
+    "rename",
+    "unsafe",
+    "lifecyle",
+    "react 16",
+    "expo",
+    "componentWillMount",
+    "UNSAFE_componentWillMount",
+    "componentWillReceiveProps",
+    "UNSAFE_componentWillReceiveProps",
+    "componentWillUpdate",
+    "UNSAFE_componentWillUpdate"
+  ],
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GuillaumeSarfati/babel-plugin-react-rename-unsafe-lifecycle/issues"
+  },
+  "homepage": "https://github.com/GuillaumeSarfati/babel-plugin-react-rename-unsafe-lifecycle#readme"
+}

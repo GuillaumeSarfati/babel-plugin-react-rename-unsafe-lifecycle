@@ -1,6 +1,6 @@
 {
   "name": "babel-plugin-react-rename-unsafe-lifecycle",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Rename unsafe react lifecycle: componentWillMount by UNSAFE_componentWillMount, componentWillReceiveProps by UNSAFE_componentWillReceiveProps and componentWillUpdate by UNSAFE_componentWillUpdate",
   "main": "lib/index.js",
   "scripts": {
